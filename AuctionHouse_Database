@@ -1,0 +1,12 @@
+{
+  "clients": [
+    {
+      "Name": "asha",
+      "Email": "a@a.c",
+      "Password": "Asha1234!",
+      "address": null,
+      "clientProducts": []
+    }
+  ],
+  "purchasedProducts": []
+}
