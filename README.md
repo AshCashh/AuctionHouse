@@ -1,1 +1,2 @@
-# CAB201_Assignment_2022_S2_n11284277
+# AuctionHouse
+Fully functioning auction house via CLI. Developed for QUT's CAB201 programming assignment.
